@@ -1,0 +1,301 @@
+﻿order_id,customer_name,email,phone,city,order_date,product,amount
+DH0001,  NGUYEN  van   An ,An.Nguyen@Gmail.com ,090 123 4567,HN,05/10/2026,  ao thun  ,1.250.000 đ
+DH0001,  NGUYEN  van   An ,An.Nguyen@Gmail.com ,090 123 4567,HN,05/10/2026,  ao thun  ,1.250.000 đ
+DH0002,tran thi BICH,tran..bich@gmail.com,12345,Ha Noi,5-Oct-2026,GIAY sneaker,"1,250,000"
+DH0003,Le Hoang Nam,lehoangnam3@gmail.com,+84 91 234 5678,Hà Nội,2026-10-05,Tai Nghe,1250000
+DH0004,n/a,not-an-email,090ABC1234,hcm,32/13/2026,-,abc
+DH0005,  PHẠM MINH TÚ ,PHAMMINHTU5@YAHOO.COM,+84 98 819 6001,hcm,n/a,Áo thun,750000
+DH0006,Đỗ Hải Yến,dohaiyen6@gmail.com,+84 91 495 9310,Nha Trang,2026-01-23,TAI NGHE,1.890.000 đ
+DH0007,  lý mỹ duyên ,lymyduyen7@gmail.com,+84 33 395 3767,Da Nang,2026-01-29,Áo khoác,490000
+DH0008,  mai thanh tùng , maithanhtung8@gmail.com ,091 451 4627,hue,28/09/2026,Áo khoác,750.000 đ
+DH0009,  NGÔ ĐỨC HUY ,ngoduchuy9@yahoo.com,+84 33 718 2278,danang,2026-05-03,-,89000
+DH0010,BÙI THANH SƠN,BUITHANHSON10@OUTLOOK.COM,+84 98 738 2997,Nha Trang,04/02/2026,Tai nghe,89.000 đ
+DH0011,Đỗ   Hải   Yến,null,0911080132,Hai Phong,2026-08-25,mũ lưỡi trai,490.000 đ
+DH0012,Hồ Ngọc Ánh,HONGOCANH12@YAHOO.COM,+84 35 191 3619,Cần Thơ,2026-09-15,  Dép lê ,2.500.000 đ
+DH0013,  Đặng Ngọc Lan ,dangngoclan13@yahoo.com,070 542 7849,hue,17/09/2026,  Quần jean ,750.000 đ
+DH0014,  Hoàng   Thu   Hà ,user@,0888-011-280,Cần Thơ,2026-11-23,Mũ lưỡi trai,750.000 đ
+DH0015,  Võ Quốc Bảo ,VOQUOCBAO15@GMAIL.COM,+84 88 342 1607,N/A,01/04/2026,  Sạc dự phòng ,1.250.000 đ
+DH0016,  Đinh   Công   Vinh ,dinhcongvinh16@gmail.com,0760608835,Hà Nội,10-Jun-2026,Bình nước,1250000
+DH0017,nguyễn văn an,nguyenvanan17@yahoo.com,+84 98 577 7387,Hue,05/06/2026,Áo khoác,free
+DH0018,  trịnh gia hân ,TRINHGIAHAN18@YAHOO.COM,+84 33 632 8708,NT,11/09/2026,Giày sneaker,"1,250,000"
+DH0019,Đỗ Hải Yến, DOHAIYEN19@YAHOO.COM ,+84 76 345 5812,null,24-Sep-2026,giày sneaker,-
+DH0020,  BÙI THANH SƠN , buithanhson20@outlook.com ,0866272980,Cần Thơ,7-Sep-2026,Áo thun,490.000 đ
+DH0021,  Đinh Công Vinh ,dinhcongvinh21@gmail.com,+84 70 092 3271,Hải Phòng,25/04/2026,  Bình nước ,150.000 đ
+DH0022,Ngô Đức Huy,ngoduchuy22@gmail.com,032 586 5185,Nha Trang,17/12/2026,quần jean,"15,990,000"
+DH0023,Mai   Thanh   Tùng,MAITHANHTUNG23@EMAIL.VN,0862-735-454,CT,5-May-2026,Tai nghe,1.2.3 đ
+DH0024,Phan   Bảo   Châu,phanbaochau24@outlook.com,+84 76 313 5182,tp. hcm,09/10/2026,  SẠC DỰ PHÒNG ,990000
+DH0025,Nguyễn   Văn   An,nguyenvanan25@email.vn,032 471 1671,Ho Chi Minh,21-Oct-2026,Sạc dự phòng,750.000 đ
+DH0026,  ĐẶNG NGỌC LAN , dangngoclan26@outlook.com ,090ABC1234,DN,2026-11-17,Sạc   dự   phòng,490000
+DH0027,Ngô   Đức   Huy,ngoduchuy27@email.vn,0768877190,Huế,13-Aug-2026,Sạc   dự   phòng,150.000 đ
+DH0028,LÊ HOÀNG NAM,LEHOANGNAM28@EMAIL.VN,0355674680,Hà Nội,29/08/2026,Bình nước,990.000 đ
+DH0029,Mai Thanh Tùng,MAITHANHTUNG29@GMAIL.COM,+84 70 248 0861,NT,24/12/2026,Quần jean,1890000
+DH0030,PHAN BẢO CHÂU,phanbaochau30@outlook.com,0769-972-787,danang,24/06/2026,Bình nước,2.500.000 đ
+DH0031,  LÝ MỸ DUYÊN ,lymyduyen31@gmail.com,0356217459,Hue,21/02/2026,Áo khoác,"1,890,000"
+DH0032,  nguyễn văn an ,NGUYENVANAN32@GMAIL.COM,035 386 9222,Can Tho,10/2026,tai nghe,"990,000"
+DH0033,đặng ngọc lan,DANGNGOCLAN33@GMAIL.COM,093 440 6409,Cần Thơ,16/07/2026,Sạc dự phòng,1.890.000 đ
+DH0034,lê hoàng nam, LEHOANGNAM34@EMAIL.VN ,0915-884-247,Huế,2026-06-01,-,990.000 đ
+DH0035,Trịnh   Gia   Hân,trinhgiahan35@gmail.com,0938593174,Ha Noi,2026-11-23,Áo thun,"990,000"
+DH0036,  Đỗ Hải Yến ,dohaiyen36@yahoo.com,0123456789,hanoi,2026-01-17,  Tai nghe ,990000
+DH0037,  Hoàng   Thu   Hà , hoangthuha37@outlook.com ,+84 32 205 3950,DN,2026-03-08,Mũ lưỡi trai,2500000
+DH0038,  trịnh gia hân ,trinhgiahan38@email.vn,0335-921-249,Hải Phòng,7-Aug-2026,Sạc dự phòng,"150,000"
+DH0039,  Hoàng   Thu   Hà , HOANGTHUHA39@GMAIL.COM ,0881-528-098,Hue,18/12/2026,Bình nước,1890000
+DH0040,  Bùi Thanh Sơn ,buithanhson40@gmail.com,0000000000,NT,8-Aug-2026,Mũ lưỡi trai,2.500.000 đ
+DH0041,Trần   Thị   Bích,tranthibich41@outlook.com,0937643815,n/a,12-Dec-2026,  Dép lê ,"150,000"
+DH0042,  Đinh   Công   Vinh ,dinhcongvinh42@gmail.com,033 596 9664,HP,06/02/2026,  Giày sneaker ,1250000
+ DH0043 ,Đinh Công Vinh,DINHCONGVINH43@YAHOO.COM,0359212779,hue,27-Nov-2026,DÉP LÊ,"249,000"
+DH0044,Trịnh   Gia   Hân,null,0983597820,Hà Nội,25-Aug-2026,  Quần   jean ,15990000
+DH0045,Hoàng Thu Hà,hoangthuha45@yahoo.com,0986-291-486,NT,20-Jun-2026,  Áo khoác ,150.000 đ
+DH0046,Lý   Mỹ   Duyên, LYMYDUYEN46@EMAIL.VN ,0932-706-537,nha trang,13/11/2026,  tai nghe ,249000
+DH0047,HỒ NGỌC ÁNH,hongocanh47@gmail.com,0334124782,n/a,32/13/2026,bình nước,2.500.000 đ
+DH0048,NGUYỄN VĂN AN,bad@@gmail.com,-,SG,10-Feb-2026,  Dép   lê ,1.2.3 đ
+ DH0049 ,Nguyễn Văn An,nguyenvanan49@gmail.com,0760-515-319,HCM,19/07/2026,  ÁO KHOÁC ,"1,890,000"
+DH0050,hồ ngọc ánh,HONGOCANH50@YAHOO.COM,0325415667,-,10/05/2026,túi canvas,"89,000"
+DH0051,Đinh Công Vinh,dinhcongvinh51@outlook.com,0321658202,Ha Noi,2026-11-11,  Tai   nghe ,1250000
+DH0052,PHẠM MINH TÚ,name@gmail,090 312 1727,nha trang,15/05/2026,Bình nước,750000
+DH0053,ĐINH CÔNG VINH, dinhcongvinh53@yahoo.com ,+84 76 678 6691,DN,28/08/2026,  túi canvas ,2500000
+DH0054,  ngô đức huy ,ngoduchuy54@yahoo.com,,tp. hcm,10-Feb-2026,Dép lê,"750,000"
+DH0055,Trịnh Gia Hân, trinhgiahan55@gmail.com ,0887-735-925,Huế,02/06/2026,Giày sneaker,"1,890,000"
+DH0056,ĐẶNG NGỌC LAN,dangngoclan56@email.vn,0321-687-339,HN,23/03/2026,  Túi   canvas ,1890000
+DH0057,Đỗ   Hải   Yến, DOHAIYEN57@GMAIL.COM ,0865852398,CT,2026-11-16,Áo thun,15.990.000 đ
+DH0058,Ngô   Đức   Huy, NGODUCHUY58@OUTLOOK.COM ,+84 88 940 9749,Hue,1-Sep-2026,  túi canvas ,89.000 đ
+DH0059,trần thị bích,tranthibich59@yahoo.com,0908-652-785,hue,28-Dec-2026,Sạc   dự   phòng,249000
+ DH0060 ,Trịnh   Gia   Hân,TRINHGIAHAN60@OUTLOOK.COM,0335-747-338,Cần Thơ,26/06/2026,Giày sneaker,249.000 đ
+DH0061,  Hồ   Ngọc   Ánh ,HONGOCANH61@OUTLOOK.COM,-,Nha Trang,02/09/2026,Giày sneaker,490000
+DH0062,  LÝ MỸ DUYÊN , lymyduyen62@outlook.com ,null,hanoi,25-Mar-2026,N/A,1.890.000 đ
+ DH0063 ,  Trịnh   Gia   Hân ,trinhgiahan63@outlook.com,0765933272,hue,18/12/2026,Mũ lưỡi trai,2500000
+DH0064,  đặng ngọc lan ,DANGNGOCLAN64@YAHOO.COM,090 139 7187,Bien Hoa,21-Oct-2026,MŨ LƯỠI TRAI,1.2.3 đ
+DH0065,HOÀNG THU HÀ,hoangthuha65@outlook.com,0886182512,CT,25-Nov-2026,Tai nghe,1.250.000 đ
+DH0066,  Nguyễn Văn An , NGUYENVANAN66@GMAIL.COM ,+84 93 030 6738,NT,2026-05-04,ÁO KHOÁC,"490,000"
+DH0067,Hồ   Ngọc   Ánh,hongocanh67@email.vn,+84 88 624 6287,NT,25/01/2026,  Giày sneaker ,"990,000"
+DH0068,đặng ngọc lan,dangngoclan68@yahoo.com,+84 86 403 3173,HP,28-Oct-2026,Bình nước,"2,500,000"
+DH0069,Hoàng   Thu   Hà, HOANGTHUHA69@EMAIL.VN ,0706937854,hue,9-Jan-2026,,"750,000"
+DH0070,Bùi   Thanh   Sơn,null,0329977008,HN,4-Feb-2026,sạc dự phòng,249000
+DH0071,Lê Hoàng Nam,lehoangnam71@gmail.com,12345,CT,2026-12-01,  TAI NGHE ,89000
+DH0072,  BÙI THANH SƠN ,user@,0338-501-631,Cần Thơ,18-Oct-2026,Mũ lưỡi trai,"1,250,000"
+DH0073,  Trịnh   Gia   Hân ,N/A,+84 32 475 4121,Hai Phong,null,Áo khoác,249000
+DH0074,  HOÀNG THU HÀ , hoangthuha74@outlook.com ,+84 88 464 7154,hue,18/05/2026,Dép lê,750000
+DH0075,đặng ngọc lan,dangngoclan75@yahoo.com,0000000000,HA NOI,2026-09-03,Dép lê,990000
+DH0076,hoàng thu hà,null,093 688 6805,Ha Noi,5-Aug-2026,Bình nước,1.250.000 đ
+DH0077,  Hoàng Thu Hà ,HOANGTHUHA77@EMAIL.VN,0331254573,danang,2026-06-26,  TÚI CANVAS ,89000
+DH0078,VÕ QUỐC BẢO,VOQUOCBAO78@EMAIL.VN,0707-966-033,nha trang,2026-04-06,DÉP LÊ,1.250.000 đ
+DH0079,Lê   Hoàng   Nam,LEHOANGNAM79@OUTLOOK.COM,0355286692,HP,11/12/2026,ÁO KHOÁC,249000
+DH0080,Mai Thanh Tùng,maithanhtung80@gmail.com,0704043842,Cần Thơ,08/09/2026,Áo khoác,249000
+DH0081,Lê Hoàng Nam,LEHOANGNAM81@YAHOO.COM,086 962 9233,Can Tho,13-Aug-2026,Sạc dự phòng,150000
+DH0082,  hoàng thu hà ,hoangthuha82@outlook.com,0986729466,HN,32/13/2026,ÁO KHOÁC,249000
+DH0083,  ngô đức huy ,ngoduchuy83@yahoo.com,0860017012,HP,22/06/2026,Tai   nghe,2500000
+DH0084,Đặng Ngọc Lan,dangngoclan84@yahoo.com,090 005 1627,SG,2026-09-02,n/a,150.000 đ
+DH0085,  phan bảo châu , PHANBAOCHAU85@YAHOO.COM ,0339-656-523,Hue,2026-11-12,ÁO KHOÁC,1890000
+DH0086,  LÊ HOÀNG NAM , lehoangnam86@outlook.com ,093 658 2710,Hà Nội,2026-09-28,ÁO THUN,89.000 đ
+DH0087,lê hoàng nam, LEHOANGNAM87@YAHOO.COM ,088 179 9042,Ha Noi,8-Jun-2026,Áo thun,1.250.000 đ
+DH0088,  Lê   Hoàng   Nam ,LEHOANGNAM88@OUTLOOK.COM,035 524 1913,HAI DUONG,2026-09-12,  Áo   thun ,"1,890,000"
+DH0089,  Mai   Thanh   Tùng ,MAITHANHTUNG89@OUTLOOK.COM,phone,Can Tho,2026-05-25,Áo khoác,null
+DH0090,  Trần   Thị   Bích ,hello world,+84 91 657 1918,Huế,2026-03-14,  DÉP LÊ ,750000
+DH0091,Mai   Thanh   Tùng,maithanhtung91@gmail.com,0707-474-112,nha trang,10-Jun-2026,Dép lê,1.250.000 đ
+DH0092,PHẠM MINH TÚ,PHAMMINHTU92@GMAIL.COM,0702-365-199,NT,2026-03-13,Quần jean,150.000 đ
+DH0093,  ĐẶNG NGỌC LAN , dangngoclan93@outlook.com ,0939934768,HN,null,Mũ lưỡi trai,750.000 đ
+DH0094,  Đỗ   Hải   Yến ,dohaiyen94@outlook.com,0351334803,Da Nang,2026-01-30,Tai nghe,1890000
+DH0095,Trần Thị Bích,TRANTHIBICH95@YAHOO.COM,086 932 5250,hcm,30-Apr-2026,Giày sneaker,15.990.000 đ
+DH0096,  đinh công vinh ,dinhcongvinh96@yahoo.com,+84 76 220 9690,Can Tho,25-Apr-2026,Tai nghe,15990000
+DH0097,Lê   Hoàng   Nam, lehoangnam0@gmail.com ,12345,hanoi,29-Jun-2026,  Tai nghe ,750.000 đ
+DH0098,VÕ QUỐC BẢO,VOQUOCBAO1@YAHOO.COM,070 688 4443,hanoi,7-Nov-2026,Áo khoác,free
+DH0099,Đỗ Hải Yến,DOHAIYEN2@EMAIL.VN,+84 86 270 4774,Nha Trang,16-Feb-2026,Áo   thun,2.500.000 đ
+DH0100,  Trần Thị Bích ,TRANTHIBICH3@YAHOO.COM,0352332061,tp. hcm,2026-09-15,-,"15,990,000"
+DH0101,Phạm Minh Tú,phamminhtu4@gmail.com,0123456789,Sài Gòn,10/2026,N/A,15990000
+DH0102,bùi thanh sơn,buithanhson5@email.vn,0889-137-367,NT,2026-13-01,GIÀY SNEAKER,750.000 đ
+DH0103,  PHẠM MINH TÚ ,phamminhtu6@yahoo.com,035 798 5524,DN,15/12/2026,Áo thun,89.000 đ
+DH0104,  Bùi Thanh Sơn ,buithanhson7@outlook.com,0766-657-437,hue,10-May-2026,Mũ lưỡi trai,15990000
+DH0105,  Ngô Đức Huy ,ngoduchuy8@yahoo.com,0936520744,Hai Phong,7-Apr-2026,Áo thun,249000
+DH0106,HOÀNG THU HÀ,hello world,0981-353-465,n/a,13/05/2026,Quần jean,"2,500,000"
+DH0107,  MAI THANH TÙNG ,maithanhtung10@yahoo.com,+84 98 250 0743,CT,2026-13-01,Quần jean,990.000 đ
+ DH0108 ,  Bùi Thanh Sơn ,BUITHANHSON11@OUTLOOK.COM,0934-210-447,Hải Phòng,2026-12-22,bình nước,"990,000"
+DH0109,Trần   Thị   Bích, tranthibich12@gmail.com ,+84 33 676 1847,tp. hcm,1-Nov-2026,Áo thun,"89,000"
+DH0110,n/a,DANGNGOCLAN13@OUTLOOK.COM,0707530011,HCM,3-Jul-2026,Quần   jean,1250000
+DH0111,Võ   Quốc   Bảo,voquocbao14@email.vn,0335-521-667,n/a,18-Jun-2026,Túi canvas,"990,000"
+DH0112,hoàng thu hà,hoangthuha15@gmail.com,0334-508-993,Cần Thơ,5-Sep-2026,n/a,1.890.000 đ
+DH0113,Hồ   Ngọc   Ánh, hongocanh16@outlook.com ,999,hanoi,,Bình nước,490.000 đ
+DH0114,  Trần Thị Bích ,tranthibich17@outlook.com,0905-711-305,nha trang,25/04/2026,Áo khoác,1890000
+DH0115,  phan bảo châu ,phanbaochau18@gmail.com,0989827080,nha trang,24/01/2026,Áo khoác,15.990.000 đ
+DH0116,  HOÀNG THU HÀ ,hoangthuha19@outlook.com,+84 86 833 3945,hue,2026-03-12,Áo khoác,1250000
+DH0117,Đặng Ngọc Lan, dangngoclan20@outlook.com ,+84 32 438 0571,HAI DUONG,17-May-2026,N/A,249.000 đ
+DH0118,bùi thanh sơn,buithanhson21@yahoo.com,0767212281,hanoi,21/11/2026,Áo khoác,"990,000"
+DH0119,  Lý   Mỹ   Duyên ,lymyduyen22@yahoo.com,+84 35 688 6153,Huế,N/A,Bình nước,"490,000"
+DH0120,  Phạm Minh Tú ,PHAMMINHTU23@OUTLOOK.COM,0868-877-043,CT,2026-07-17,Giày sneaker,750000
+DH0121,Nguyễn Văn An, NGUYENVANAN24@GMAIL.COM ,0000000000,Huế,24/08/2026,  Bình nước ,990.000 đ
+DH0122,Nguyễn   Văn   An,NGUYENVANAN25@YAHOO.COM,+84 91 424 5088,HN,2026-08-31,  Dép   lê ,249000
+DH0123,MAI THANH TÙNG, MAITHANHTUNG26@GMAIL.COM ,033 397 5523,DN,2026-11-27,Bình nước,n/a
+DH0124,lý mỹ duyên,lymyduyen27@email.vn,+84 91 129 1428,DN,3-Sep-2026,Quần jean,1.890.000 đ
+ DH0125 ,  Ngô   Đức   Huy ,ngoduchuy28@gmail.com,999,Cần Thơ,10-Mar-2026,Giày sneaker,1890000
+DH0126,  đỗ hải yến ,no-at-sign,0931-846-386,Nha Trang,15/05/2026,Túi canvas,15990000
+DH0127,  hồ ngọc ánh ,hongocanh30@yahoo.com,070 029 9228,CT,2026-04-18,Giày sneaker,"15,990,000"
+DH0128,Hoàng Thu Hà,HOANGTHUHA31@OUTLOOK.COM,090 991 3662,Ha Noi,00/00/0000,Áo   khoác,249000
+DH0129,ĐINH CÔNG VINH,DINHCONGVINH32@EMAIL.VN,0885991624,NT,2026-01-23,  sạc dự phòng ,free
+DH0130,ĐINH CÔNG VINH,dinhcongvinh33@email.vn,0917-258-874,Can Tho,10-Nov-2026,Mũ lưỡi trai,750000
+DH0131,LÊ HOÀNG NAM,-,-,hue,2026-03-16,Giày sneaker,1890000
+DH0132,trịnh gia hân,no-at-sign,+84 33 848 9554,N/A,28/10/2026,Mũ lưỡi trai,490000
+DH0133,BÙI THANH SƠN,buithanhson36@email.vn,0901416335,DN,23-Jun-2026,Sạc dự phòng,1.890.000 đ
+ DH0134 ,Bùi Thanh Sơn,BUITHANHSON37@YAHOO.COM,093 521 1179,nha trang,2026-05-16,Túi canvas,"490,000"
+DH0135,  ĐINH CÔNG VINH ,dinhcongvinh38@email.vn,0905-003-691,Đà Nẵng,2026-07-21,ÁO KHOÁC,"249,000"
+DH0136,  PHAN BẢO CHÂU ,,0900-267-288,Nha Trang,15/07/2026,Sạc dự phòng,490000
+DH0137,Đặng   Ngọc   Lan,dangngoclan40@yahoo.com,0868771694,Hue,2026-10-23,bình nước,"15,990,000"
+DH0138,võ quốc bảo,voquocbao41@yahoo.com,033 326 1117,hanoi,12-Jan-2026,Quần   jean,249.000 đ
+DH0139,Đỗ   Hải   Yến,dohaiyen42@yahoo.com,0359-979-688,DA LAT,null,null,1.890.000 đ
+DH0140,  đặng ngọc lan , dangngoclan43@email.vn ,0986-634-163,Đà Nẵng,30/07/2026,  Tai nghe ,abc
+DH0141,Nguyễn Văn An,nguyenvanan44@outlook.com,0905-705-120,DA LAT,2026-09-10,  Áo   khoác ,"490,000"
+ DH0142 ,  trần thị bích ,,070 503 1365,Sài Gòn,9-Oct-2026,Quần jean,"2,500,000"
+DH0143,  phạm minh tú ,PHAMMINHTU46@YAHOO.COM,0985-730-652,hanoi,6-Mar-2026,  TÚI CANVAS ,1890000
+DH0144,Trịnh   Gia   Hân,trinhgiahan47@outlook.com,090ABC1234,danang,32/13/2026,Bình nước,89.000 đ
+DH0145,Đinh Công Vinh,DINHCONGVINH48@GMAIL.COM,0987-170-586,nha trang,2026-04-24,Dép lê,"15,990,000"
+DH0146,phạm minh tú,phamminhtu49@outlook.com,+84 88 122 8685,Cần Thơ,23/11/2026,Bình nước,"15,990,000"
+DH0147,Nguyễn Văn An,nguyenvanan50@gmail.com,+84 76 043 3504,HN,18/01/2026,Bình nước,750.000 đ
+DH0148,phạm minh tú,phamminhtu51@gmail.com,033 055 6613,hue,01/11/2026,Áo thun,"750,000"
+ DH0149 ,lý mỹ duyên,lymyduyen52@gmail.com,0888622783,Hải Phòng,12-Feb-2026,tai nghe,1890000
+DH0150,Mai   Thanh   Tùng,MAITHANHTUNG53@EMAIL.VN,+84 70 521 1039,Nha Trang,2026-11-16,Bình nước,249000
+DH0151,TRẦN THỊ BÍCH,TRANTHIBICH54@GMAIL.COM,0934-070-164,NT,2026-05-11,Sạc dự phòng,249000
+DH0152,hồ ngọc ánh,HONGOCANH55@GMAIL.COM,098 438 4046,Can Tho,2026-07-21,Giày sneaker,"249,000"
+DH0153,  Hoàng   Thu   Hà ,hoangthuha56@yahoo.com,091 262 9251,Sài Gòn,2026-10-25,Áo thun,"2,500,000"
+DH0154,nguyễn văn an,NGUYENVANAN57@EMAIL.VN,+84 90 526 7722,HCM,03/07/2026,Áo thun,"150,000"
+DH0155,Trịnh   Gia   Hân,trinhgiahan58@gmail.com,032 388 6086,Sài Gòn,10/06/2026,MŨ LƯỠI TRAI,"1,250,000"
+DH0156,  NGUYỄN VĂN AN ,n/a,0862111751,hue,2-Apr-2026,Giày sneaker,"1,890,000"
+DH0157,  ĐỖ HẢI YẾN ,dohaiyen60@email.vn,0329733977,HP,2026-13-01,Dép   lê,1.890.000 đ
+DH0158,Võ   Quốc   Bảo,voquocbao61@yahoo.com,0860145561,nha trang,2026-12-11,Sạc dự phòng,"750,000"
+DH0159,  Ngô   Đức   Huy ,NGODUCHUY62@OUTLOOK.COM,0935299787,NT,7-Aug-2026,  Tai nghe ,15990000
+DH0160,  Ngô Đức Huy , ngoduchuy63@outlook.com ,0865-699-023,Nha Trang,17-Sep-2026,Túi canvas,"2,500,000"
+DH0161,Đặng Ngọc Lan,bad@@gmail.com,+84 32 568 2996,CT,23/10/2026,  BÌNH NƯỚC ,990000
+DH0162,  LÝ MỸ DUYÊN , lymyduyen65@outlook.com ,033 823 0768,Hà Nội,yesterday,Dép   lê,2.500.000 đ
+DH0163,  Phạm Minh Tú ,bad@@gmail.com,999,Ha Noi,2026-04-16,  túi canvas ,2500000
+DH0164,mai thanh tùng,maithanhtung67@gmail.com,+84 90 174 7733,nha trang,18/10/2026,bình nước,"249,000"
+DH0165,lê hoàng nam,lehoangnam68@email.vn,+84 93 382 7615,nha trang,4-Jun-2026,MŨ LƯỠI TRAI,"2,500,000"
+DH0166,TRỊNH GIA HÂN,TRINHGIAHAN69@GMAIL.COM,0930227846,Ho Chi Minh,17-Jun-2026,bình nước,-
+DH0167,ĐINH CÔNG VINH,DINHCONGVINH70@GMAIL.COM,+84 88 566 6683,HP,,Áo khoác,"750,000"
+DH0168,Phan Bảo Châu,phanbaochau71@email.vn,0906532690,nha trang,2026-11-16,Áo khoác,"249,000"
+ DH0169 ,Lê Hoàng Nam,LEHOANGNAM72@GMAIL.COM,098 189 4905,Hai Phong,00/00/0000,  túi canvas ,15990000
+DH0170,ngô đức huy,ngoduchuy73@yahoo.com,076 429 4440,CT,6-Sep-2026,Giày sneaker,150000
+DH0171,Bùi   Thanh   Sơn,BUITHANHSON74@YAHOO.COM,0860410276,danang,10/2026,Áo khoác,1.890.000 đ
+DH0172,Đỗ Hải Yến,tran..bich@gmail.com,+84 93 673 9385,DN,21-Jun-2026,Áo thun,12a50
+DH0173,PHẠM MINH TÚ,phamminhtu76@yahoo.com,098 921 2447,,14/02/2026,mũ lưỡi trai,15990000
+DH0174,  Phan   Bảo   Châu ,phanbaochau77@gmail.com,0330119470,tp. hcm,22-Apr-2026,Áo thun,15.990.000 đ
+DH0175,  hồ ngọc ánh ,HONGOCANH78@OUTLOOK.COM,+84 32 158 5174,hcm,2026-03-04,Mũ lưỡi trai,15990000
+ DH0176 ,  Ngô Đức Huy ,n/a,-,DA LAT,2026-09-13,Dép lê,2.500.000 đ
+DH0177,  Bùi Thanh Sơn ,user@,+84 98 651 9825,NT,2-Feb-2026,Giày sneaker,"490,000"
+DH0178,Nguyễn Văn An,no-at-sign,0766723248,N/A,n/a,Dép lê,249000
+DH0179,ĐẶNG NGỌC LAN,hello world,phone,Hai Phong,22/05/2026,Dép lê,"89,000"
+DH0180,  PHẠM MINH TÚ ,PHAMMINHTU83@GMAIL.COM,0706317970,Ho Chi Minh,16-Jun-2026,Túi canvas,490.000 đ
+DH0181,Võ   Quốc   Bảo,voquocbao84@yahoo.com,0701687397,DN,23-Nov-2026,Mũ lưỡi trai,15990000
+DH0182,Phạm   Minh   Tú,null,0883254310,Huế,2026-08-20,,1890000
+DH0183,Đỗ Hải Yến, dohaiyen86@yahoo.com ,0860850165,CT,24/12/2026,Bình nước,15.990.000 đ
+DH0184,  Đỗ   Hải   Yến ,DOHAIYEN87@OUTLOOK.COM,0907-881-788,Hải Phòng,15/09/2026,Quần jean,1.250.000 đ
+DH0185,Hoàng Thu Hà,hoangthuha88@email.vn,0763-103-856,hue,31/08/2026,  Túi canvas ,990000
+DH0186,Ngô Đức Huy, NGODUCHUY89@YAHOO.COM ,086 927 4523,Hai Duong,04/04/2026,  Giày   sneaker ,"249,000"
+DH0187,hoàng thu hà,hoangthuha90@outlook.com,+84 32 281 4069,Hai Phong,2026-10-17,Bình nước,1.890.000 đ
+DH0188,trần thị bích,TRANTHIBICH91@EMAIL.VN,0866504554,nha trang,2026-12-08,Tai nghe,990000
+DH0189,  Lý   Mỹ   Duyên ,user@,+84 76 628 7923,Nha Trang,,Áo khoác,"15,990,000"
+DH0190,Bùi   Thanh   Sơn,user@,093 597 9647,DN,15/01/2026,  Giày   sneaker ,150000
+DH0191,Võ   Quốc   Bảo,voquocbao94@outlook.com,076 451 8952,hcm,06/10/2026,Bình nước,"990,000"
+DH0192,  LÊ HOÀNG NAM ,lehoangnam95@gmail.com,086 279 8524,,2026-03-01,Giày sneaker,249000
+ DH0193 ,Lê Hoàng Nam,lehoangnam96@gmail.com,0709-325-012,Can Tho,04/06/2026,Giày sneaker,89000
+DH0194,HỒ NGỌC ÁNH,hongocanh0@yahoo.com,035 566 3836,Nha Trang,2026-07-07,Túi canvas,15.990.000 đ
+DH0195,Phan Bảo Châu,phanbaochau1@email.vn,+84 32 716 7811,Hai Phong,7-Apr-2026,Dép lê,150.000 đ
+DH0196,Đinh   Công   Vinh,n/a,+84 35 711 4773,HN,1-Sep-2026,Áo thun,15.990.000 đ
+DH0197,  LÝ MỸ DUYÊN , lymyduyen3@gmail.com ,088 167 5677,Ha Noi,4-Oct-2026,Sạc dự phòng,2500000
+ DH0198 ,Trịnh   Gia   Hân,no-at-sign,032 255 9056,Hai Phong,12/11/2026,N/A,"990,000"
+DH0199,PHAN BẢO CHÂU,phanbaochau5@email.vn,+84 88 965 9171,danang,17-May-2026,Bình nước,89.000 đ
+DH0200,phạm minh tú,PHAMMINHTU6@OUTLOOK.COM,0906351484,hue,00/00/0000,Tai nghe,"990,000"
+DH0201,  Phan   Bảo   Châu , phanbaochau7@yahoo.com ,0354-665-136,BIEN HOA,17-Oct-2026,  Giày sneaker ,n/a
+DH0202,nguyễn văn an,nguyenvanan8@outlook.com,088 516 2319,Cần Thơ,29-Jan-2026,  ÁO KHOÁC ,"150,000"
+DH0203,  Đinh Công Vinh ,dinhcongvinh9@outlook.com,070 425 7540,nha trang,25-Dec-2026,ÁO THUN,150000
+DH0204,bùi thanh sơn,buithanhson10@yahoo.com,0986-041-776,Huế,2026-06-02,  Giày   sneaker ,490000
+DH0205,bùi thanh sơn,buithanhson11@email.vn,090 242 9543,Hai Phong,2026-09-22,Mũ lưỡi trai,"249,000"
+DH0206,LÊ HOÀNG NAM,LEHOANGNAM12@GMAIL.COM,0907133344,HP,N/A,Tai nghe,249000
+DH0207,trịnh gia hân,trinhgiahan13@email.vn,0761180053,DN,2026-12-18,Sạc dự phòng,490000
+DH0208,Phạm Minh Tú,phamminhtu14@yahoo.com,0765-644-948,HP,10/06/2026,Túi canvas,89.000 đ
+DH0209,phạm minh tú,PHAMMINHTU15@OUTLOOK.COM,035 284 9939,Cần Thơ,2026-03-17,MŨ LƯỠI TRAI,150.000 đ
+DH0210,  Nguyễn   Văn   An ,NGUYENVANAN16@EMAIL.VN,0932304501,hanoi,18/06/2026,giày sneaker,89.000 đ
+DH0211,  Đinh   Công   Vinh ,dinhcongvinh17@email.vn,+84 76 996 1659,Hải Phòng,20/09/2026,  Quần jean ,490.000 đ
+DH0212,Phan Bảo Châu,hello world,0911-866-179,Đà Nẵng,1-Jun-2026,Quần   jean,15990000
+DH0213,null, voquocbao19@outlook.com ,0910061027,Huế,10-Feb-2026,,15990000
+DH0214,Hoàng   Thu   Hà,hoangthuha20@email.vn,091 314 7276,Ha Noi,2026-11-29,Túi canvas,???
+DH0215,Hồ Ngọc Ánh,N/A,0326958146,hanoi,24-Jul-2026,Bình nước,"1,890,000"
+DH0216,  PHAN BẢO CHÂU ,phanbaochau22@email.vn,12345,Can Tho,2026-12-11,Mũ lưỡi trai,"990,000"
+DH0217,  Hồ   Ngọc   Ánh ,hongocanh23@outlook.com,0914289107,NT,2026-05-13,Dép   lê,990000
+DH0218,Đặng   Ngọc   Lan,DANGNGOCLAN24@GMAIL.COM,0864-821-456,hue,2026-08-13,n/a,1250000
+DH0219,  Lý Mỹ Duyên ,lymyduyen25@yahoo.com,0322-908-466,hue,11/06/2026,Bình nước,1.250.000 đ
+DH0220,Trịnh Gia Hân,TRINHGIAHAN26@OUTLOOK.COM,0768-520-089,Sài Gòn,32/13/2026,N/A,2500000
+DH0221,bùi thanh sơn,buithanhson27@outlook.com,+84 93 268 3158,Nha Trang,29/06/2026,  quần jean ,750.000 đ
+ DH0222 ,Hồ Ngọc Ánh,hongocanh28@yahoo.com,090 288 1377,DA LAT,2-Aug-2026,Bình nước,n/a
+DH0223,  HỒ NGỌC ÁNH , HONGOCANH29@OUTLOOK.COM ,+84 90 949 7567,NT,2-Jan-2026,Túi canvas,"150,000"
+DH0224,  nguyễn văn an , nguyenvanan30@gmail.com ,093 890 9837,HA NOI,2026-10-20,áo thun,"750,000"
+DH0225,  PHẠM MINH TÚ ,PHAMMINHTU31@OUTLOOK.COM,+84 33 246 2095,HN,05/10/2026,Mũ lưỡi trai,249.000 đ
+DH0226,Phan   Bảo   Châu,phanbaochau32@gmail.com,0324-891-382,Can Tho,03/02/2026,Quần jean,1890000
+DH0227,  Trần   Thị   Bích ,tranthibich33@outlook.com,086 398 4028,DN,04/09/2026,Quần jean,750.000 đ
+DH0228,Lý   Mỹ   Duyên, lymyduyen34@gmail.com ,032 268 7681,CT,9-Jan-2026,TÚI CANVAS,249000
+DH0229,Ngô   Đức   Huy, ngoduchuy35@email.vn ,090ABC1234,hcm,2026-04-24,  Dép lê ,490000
+DH0230,  mai thanh tùng ,maithanhtung36@gmail.com,088 418 7758,Hue,2026-01-02,Sạc dự phòng,"1,250,000"
+DH0231,  nguyễn văn an ,nguyenvanan37@gmail.com,0864-317-350,CT,2026-09-03,  Dép lê ,1250000
+DH0232,  TRẦN THỊ BÍCH ,TRANTHIBICH38@EMAIL.VN,0000000000,n/a,31/05/2026,Áo khoác,"1,250,000"
+DH0233,Phan Bảo Châu,phanbaochau39@outlook.com,035 274 9545,Cần Thơ,20-Sep-2026,Giày   sneaker,990.000 đ
+DH0234,  NGÔ ĐỨC HUY ,NGODUCHUY40@YAHOO.COM,,,3-Aug-2026,  Bình nước ,990000
+DH0235,Bùi Thanh Sơn,BUITHANHSON41@GMAIL.COM,0330261534,n/a,02/04/2026,giày sneaker,490000
+ DH0236 ,  NGÔ ĐỨC HUY ,NGODUCHUY42@YAHOO.COM,035 897 3179,hcm,18/03/2026,Áo khoác,"990,000"
+DH0237,Trịnh   Gia   Hân,trinhgiahan43@email.vn,0864-812-147,hcm,2026-04-22,TÚI CANVAS,750000
+DH0238,  Phạm Minh Tú ,PHAMMINHTU44@OUTLOOK.COM,-,Hà Nội,02/03/2026,Bình   nước,"150,000"
+DH0239,Đặng Ngọc Lan,dangngoclan45@yahoo.com,0325-292-407,Da Nang,08/08/2026,Mũ lưỡi trai,1250000
+DH0240,  trịnh gia hân , trinhgiahan46@gmail.com ,+84 33 597 4121,HA NOI,15/04/2026,  ÁO THUN ,N/A
+DH0241,Đặng   Ngọc   Lan,bad@@gmail.com,0902994938,Da Nang,2026-03-08,Giày sneaker,
+ DH0242 ,VÕ QUỐC BẢO,voquocbao48@yahoo.com,+84 90 629 1603,Đà Nẵng,1-Aug-2026,  QUẦN JEAN ,490000
+DH0243,  mai thanh tùng ,maithanhtung49@email.vn,032 412 5777,HA NOI,32/13/2026,  Tai   nghe ,990000
+DH0244,  ĐẶNG NGỌC LAN ,dangngoclan50@gmail.com,+84 32 900 6335,HCM,2026-08-15,  MŨ LƯỠI TRAI ,89.000 đ
+DH0245,phan bảo châu,no-at-sign,032 650 6373,Huế,3-Mar-2026,  DÉP LÊ ,"490,000"
+DH0246,Hoàng Thu Hà,tran..bich@gmail.com,+84 33 509 9768,Cần Thơ,20-Jun-2026,ÁO THUN,249.000 đ
+DH0247,  ĐỖ HẢI YẾN ,dohaiyen53@email.vn,+84 32 355 3380,null,12-Jun-2026,Tai   nghe,89000
+DH0248,  ngô đức huy ,ngoduchuy54@yahoo.com,0764-973-471,Hai Phong,2026-03-26,Túi   canvas,"490,000"
+DH0249,hồ ngọc ánh, hongocanh55@yahoo.com ,,Huế,06/02/2026,Túi canvas,"990,000"
+DH0250,Trịnh Gia Hân,trinhgiahan56@yahoo.com,+84 86 024 9724,Cần Thơ,6-Aug-2026,Giày   sneaker,490.000 đ
+ DH0193 ,Lê Hoàng Nam,lehoangnam96@gmail.com,0709-325-012,Can Tho,04/06/2026,Giày sneaker,89000
+DH0225,    PHẠM MINH TÚ  ,PHAMMINHTU31@OUTLOOK.COM,+84 33 246 2095,HN,05/10/2026,Mũ lưỡi trai, 249.000 đ 
+DH0237,  Trịnh   Gia   Hân ,trinhgiahan43@email.vn,0864-812-147,hcm,2026-04-22,TÚI CANVAS, 750000 
+DH0187,hoàng thu hà,hoangthuha90@outlook.com,+84 32 281 4069,Hai Phong,2026-10-17,Bình nước,1.890.000 đ
+DH0223,  HỒ NGỌC ÁNH , HONGOCANH29@OUTLOOK.COM ,+84 90 949 7567,NT,2-Jan-2026,Túi canvas,"150,000"
+DH0023,  Mai   Thanh   Tùng ,MAITHANHTUNG23@EMAIL.VN,0862-735-454,CT,5-May-2026,Tai nghe, 1.2.3 đ 
+DH0028,LÊ HOÀNG NAM,LEHOANGNAM28@EMAIL.VN,0355674680,Hà Nội,29/08/2026,Bình nước,990.000 đ
+DH0163,  Phạm Minh Tú ,bad@@gmail.com,999,Ha Noi,2026-04-16,  túi canvas ,2500000
+DH0147,Nguyễn Văn An,nguyenvanan50@gmail.com,+84 76 043 3504,HN,18/01/2026,Bình nước,750.000 đ
+DH0199,PHAN BẢO CHÂU,phanbaochau5@email.vn,+84 88 965 9171,danang,17-May-2026,Bình nước,89.000 đ
+DH0205,  bùi thanh sơn ,buithanhson11@email.vn,090 242 9543,Hai Phong,2026-09-22,Mũ lưỡi trai," 249,000 "
+DH0089,  Mai   Thanh   Tùng ,MAITHANHTUNG89@OUTLOOK.COM,phone,Can Tho,2026-05-25,Áo khoác,null
+DH0209,  phạm minh tú ,PHAMMINHTU15@OUTLOOK.COM,035 284 9939,Cần Thơ,2026-03-17,MŨ LƯỠI TRAI, 150.000 đ 
+DH0037,    Hoàng   Thu   Hà  , hoangthuha37@outlook.com ,+84 32 205 3950,DN,2026-03-08,Mũ lưỡi trai, 2500000 
+DH0069,  Hoàng   Thu   Hà , HOANGTHUHA69@EMAIL.VN ,0706937854,hue,9-Jan-2026,," 750,000 "
+DH0192,    LÊ HOÀNG NAM  ,lehoangnam95@gmail.com,086 279 8524,,2026-03-01,Giày sneaker, 249000 
+DH0054,    ngô đức huy  ,ngoduchuy54@yahoo.com,,tp. hcm,10-Feb-2026,Dép lê," 750,000 "
+DH0235,  Bùi Thanh Sơn ,BUITHANHSON41@GMAIL.COM,0330261534,n/a,02/04/2026,giày sneaker, 490000 
+DH0102,bùi thanh sơn,buithanhson5@email.vn,0889-137-367,NT,2026-13-01,GIÀY SNEAKER,750.000 đ
+DH0179,ĐẶNG NGỌC LAN,hello world,phone,Hai Phong,22/05/2026,Dép lê,"89,000"
+DH0079,  Lê   Hoàng   Nam ,LEHOANGNAM79@OUTLOOK.COM,0355286692,HP,11/12/2026,ÁO KHOÁC, 249000 
+DH0002,tran thi BICH,tran..bich@gmail.com,12345,Ha Noi,5-Oct-2026,GIAY sneaker,"1,250,000"
+DH0044,Trịnh   Gia   Hân,null,0983597820,Hà Nội,25-Aug-2026,  Quần   jean ,15990000
+DH0238,  Phạm Minh Tú ,PHAMMINHTU44@OUTLOOK.COM,-,Hà Nội,02/03/2026,Bình   nước,"150,000"
+DH0126,  đỗ hải yến ,no-at-sign,0931-846-386,Nha Trang,15/05/2026,Túi canvas,15990000
+DH0001,    NGUYEN  van   An  ,An.Nguyen@Gmail.com ,090 123 4567,HN,05/10/2026,  ao thun  , 1.250.000 đ 
+DH0025,  Nguyễn   Văn   An ,nguyenvanan25@email.vn,032 471 1671,Ho Chi Minh,21-Oct-2026,Sạc dự phòng, 750.000 đ 
+DH0018,  trịnh gia hân ,TRINHGIAHAN18@YAHOO.COM,+84 33 632 8708,NT,11/09/2026,Giày sneaker,"1,250,000"
+DH0241,Đặng   Ngọc   Lan,bad@@gmail.com,0902994938,Da Nang,2026-03-08,Giày sneaker,
+DH0231,  nguyễn văn an ,nguyenvanan37@gmail.com,0864-317-350,CT,2026-09-03,  Dép lê ,1250000
+DH0107,  MAI THANH TÙNG ,maithanhtung10@yahoo.com,+84 98 250 0743,CT,2026-13-01,Quần jean,990.000 đ
+DH0135,  ĐINH CÔNG VINH ,dinhcongvinh38@email.vn,0905-003-691,Đà Nẵng,2026-07-21,ÁO KHOÁC,"249,000"
+DH0220,Trịnh Gia Hân,TRINHGIAHAN26@OUTLOOK.COM,0768-520-089,Sài Gòn,32/13/2026,N/A,2500000
+DH0168,Phan Bảo Châu,phanbaochau71@email.vn,0906532690,nha trang,2026-11-16,Áo khoác,"249,000"
+DH0074,  HOÀNG THU HÀ , hoangthuha74@outlook.com ,+84 88 464 7154,hue,18/05/2026,Dép lê,750000
+DH0188,trần thị bích,TRANTHIBICH91@EMAIL.VN,0866504554,nha trang,2026-12-08,Tai nghe,990000
+DH0111,Võ   Quốc   Bảo,voquocbao14@email.vn,0335-521-667,n/a,18-Jun-2026,Túi canvas,"990,000"
+DH0228,Lý   Mỹ   Duyên, lymyduyen34@gmail.com ,032 268 7681,CT,9-Jan-2026,TÚI CANVAS,249000
+DH0046,Lý   Mỹ   Duyên, LYMYDUYEN46@EMAIL.VN ,0932-706-537,nha trang,13/11/2026,  tai nghe ,249000
+DH0096,    đinh công vinh  ,dinhcongvinh96@yahoo.com,+84 76 220 9690,Can Tho,25-Apr-2026,Tai nghe, 15990000 
+DH0048,NGUYỄN VĂN AN,bad@@gmail.com,-,SG,10-Feb-2026,  Dép   lê ,1.2.3 đ
+DH0181,Võ   Quốc   Bảo,voquocbao84@yahoo.com,0701687397,DN,23-Nov-2026,Mũ lưỡi trai,15990000
+DH0035,Trịnh   Gia   Hân,trinhgiahan35@gmail.com,0938593174,Ha Noi,2026-11-23,Áo thun,"990,000"
+DH0051,Đinh Công Vinh,dinhcongvinh51@outlook.com,0321658202,Ha Noi,2026-11-11,  Tai   nghe ,1250000
+ DH0125 ,  Ngô   Đức   Huy ,ngoduchuy28@gmail.com,999,Cần Thơ,10-Mar-2026,Giày sneaker,1890000
+DH0047,HỒ NGỌC ÁNH,hongocanh47@gmail.com,0334124782,n/a,32/13/2026,bình nước,2.500.000 đ
+DH0129,  ĐINH CÔNG VINH ,DINHCONGVINH32@EMAIL.VN,0885991624,NT,2026-01-23,  sạc dự phòng , free 
+DH0029,Mai Thanh Tùng,MAITHANHTUNG29@GMAIL.COM,+84 70 248 0861,NT,24/12/2026,Quần jean,1890000
+DH0116,  HOÀNG THU HÀ ,hoangthuha19@outlook.com,+84 86 833 3945,hue,2026-03-12,Áo khoác,1250000
