@@ -2,6 +2,8 @@
 
 A small Python project that turns a messy Vietnamese retail export into one clean table, a formatted Excel file, and a short report of what changed.
 
+![Cleaned sample orders, before and after](docs/screenshot.png)
+
 ## Problem
 
 Orders from several stores land in one spreadsheet. Staff type the same facts in different ways:
